@@ -8,7 +8,7 @@ The purpose is to help Louise to gain a greater understanding of campaigns from 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![by_date.png](/resources/by_date.png) ---
+![by_date.png](/resources/by_date.png)---
 The month that launched the most successful Kickstarter campaigns was May. However, January, June, July and October all had roughly the same number of failed campaigns launched.
 
 ### Analysis of Outcomes Based on Goals
