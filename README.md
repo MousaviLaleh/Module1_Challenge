@@ -6,6 +6,7 @@ Louise, a playwright wants to start a campaign to help fund her play, Fever, wit
 The purpose is to help Louise to gain a greater understanding of campaigns from start to finish, and we'll be able to set her campaign to mirror other successful ones in the same category.
 
 ## Analysis and Challenges
+After retrieving the data, and performing into readable format in excel, dataset is almost ready to analyze. By 
 
 ### Analysis of Outcomes Based on Launch Date
 The month that launched the most successful campaigns was May. However, January, June, July and October all had roughly the same number of failed campaigns launched.<br/>
