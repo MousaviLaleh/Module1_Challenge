@@ -1,4 +1,4 @@
-# Kickstarter Challenge: Louise’s play Fever fundraising goal
+# Kickstarter Challenge: Louise’s play fundraising goal
 ## Overview of Project
 Louise, a playwright wants to start a campaign to help fund her play, Fever, with estimating a budget of over $10,000. Her play Fever came close to its fundraising goal in a short amount of time. Now she wants to know how different campaigns fared in relation to their launch dates and their funding goals.
 
