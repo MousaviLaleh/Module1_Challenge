@@ -9,11 +9,11 @@ The purpose is to help Louise to gain a greater understanding of campaigns from 
 
 ### Analysis of Outcomes Based on Launch Date
 The month that launched the most successful campaigns was May. However, January, June, July and October all had roughly the same number of failed campaigns launched.<br/>
-![by_date.png](/resources/by_date.png)<br/><br/>
+![by_date.png](/resources/by_date.png)<br/>
 
 ### Analysis of Outcomes Based on Goals
 Failed campaigns have much higher fundraising goals than successful Kickstarter campaigns.<br/>
-![on_goals.png](/resources/on_goals.png)
+![on_goals.png](/resources/on_goals.png)<br/>
 
 
 ### Challenges and Difficulties Encountered
