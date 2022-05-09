@@ -13,6 +13,7 @@ To help the Louise plan her campaign timeline, we need to take a closer look at 
 ![by_date.png](/resources/by_date.png)<br/>
 Line charts are helpful when trying to determine trends. The chart shows the months that launched the most successful campaigns was May, June and July. Although Feb, Apr, and Aug have the same range of oucomes, but in compare with others, they can provide quiet well outcome. However, May to October, all had roughly the same number of failed campaigns launched. Overal  Feb to Aug is the best time to run her campaigns.<br/>
 ### Analysis of Outcomes Based on Goals
+To continue to help Louise plan her campaign, we need to be more specific with our searches. In this way we'll be able to pinpoint the ones most similar to Louise's vision. 
 Failed campaigns have much higher fundraising goals than successful Kickstarter campaigns.<br/>
 ![on_goals.png](/resources/on_goals.png)<br/>
 
