@@ -9,7 +9,7 @@ The purpose is to help Louise to gain a greater understanding of campaigns from 
 After retrieving the data, and performing into readable format in excel, dataset is almost ready to analyze. By 
 
 ### Analysis of Outcomes Based on Launch Date
-The month that launched the most successful campaigns was May. However, January, June, July and October all had roughly the same number of failed campaigns launched.<br/>
+The chart shows the month that launched the most successful campaigns was May, June and July. However, May to October, all had roughly the same number of failed campaigns launched.<br/>
 ![by_date.png](/resources/by_date.png)<br/>
 
 ### Analysis of Outcomes Based on Goals
