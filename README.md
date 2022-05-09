@@ -6,7 +6,7 @@ Louise, a playwright, wants to start a crowdfunding campaign fund her play, Feve
 Now her play Fever came close to its fundraising goal in a short amount of time. Now she wants to know how different campaigns fared in relation to their launch dates and their funding goals.
 
 ## Analysis and Challenges
-After retrieving the data from previous campaigns, and performing it into readable format in excel, we can help Louise set up her incentives by first determining how much money people have pledged to campaigns historically.<br/>
+After retrieving the data from previous campaigns, and performing it into a readable format in excel, we can help Louise set up her incentives by first determining how much money people have pledged to campaigns historically.<br/>
 
 ### Analysis of Outcomes Based on Launch Date
 To help the Louise plan her campaign timeline, we need to take a closer look at how campaign length might be tied to its outcome. We should consider time, or more specifically, whether the length of a campaign makes a difference in determining its success. For example, is a shorter or longer campaign more effective? Is there a certain time of year when campaigns tend to be more successful?<br/>
