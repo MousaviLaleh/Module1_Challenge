@@ -16,7 +16,7 @@ Line charts are helpful when trying to determine trends. The chart shows the mon
 ### Analysis of Outcomes Based on Goals
 To continue to help Louise plan her campaign, we need to be more specific with our searches. In this way we'll be able to pinpoint the ones most similar to Louise's vision. Now, we need to collect the outcome and goal data for the “plays” and visualize the percentage of successful, failed, and canceled plays based on the funding goal amount.<br/>
 ![on_goals.png](/resources/on_goals.png)<br/>
-Failed campaigns have much higher fundraising goals than successful Kickstarter campaigns.<br/>
+Failed campaigns have much higher fundraising amounts than successful Kickstarter campaigns.<br/>
 
 
 ### Challenges and Difficulties Encountered
