@@ -9,9 +9,9 @@ The purpose is to help Louise to gain a greater understanding of campaigns from 
 After retrieving the data, and performing into readable format in excel, dataset is almost ready to analyze. By 
 
 ### Analysis of Outcomes Based on Launch Date
-The chart shows the months that launched the most successful campaigns was May, June and July. However, May to October, all had roughly the same number of failed campaigns launched.<br/>
+To help the Louise plan her campaign timeline, we need to take a closer look at how campaign length might be tied to its outcome. We should consider time, or more specifically, whether the length of a campaign makes a difference in determining its success. For example, is a shorter or longer campaign more effective? Is there a certain time of year when campaigns tend to be more successful?<br/>
 ![by_date.png](/resources/by_date.png)<br/>
-
+The chart shows the months that launched the most successful campaigns was May, June and July. However, May to October, all had roughly the same number of failed campaigns launched.<br/>
 ### Analysis of Outcomes Based on Goals
 Failed campaigns have much higher fundraising goals than successful Kickstarter campaigns.<br/>
 ![on_goals.png](/resources/on_goals.png)<br/>
