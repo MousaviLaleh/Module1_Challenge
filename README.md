@@ -19,6 +19,6 @@ To continue to help Louise plan her campaign, we need to be more specific with o
 Failed campaigns have much higher fundraising amounts than successful Kickstarter campaigns.<br/>
 
 
-### Challenges and Difficulties Encountere
+### Challenges and Difficulties Encountered
 
 ## Results
