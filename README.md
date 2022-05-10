@@ -7,7 +7,7 @@ Louise, a playwright, wants to start a crowdfunding campaign fund her play, Feve
 Louise wants to know how different campaigns fared in relation to their launch dates and their funding goals.
 
 ## Analysis and Challenges
-After retrieving the data from previous similar campaigns, and performing it into a readable format in excel, we can help Louise set up her incentives by first determining how much money people have pledged to campaigns historically.<br/><br/>
+I start my job by collecting the data from past similar campaigns. in this way I can help Louise set up her incentives by first determining how much money people have pledged to campaigns historically.<br/><br/>
 
 ### Analysis of Outcomes Based on Launch Date
 ### challenge
