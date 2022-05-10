@@ -21,7 +21,8 @@ Line charts are helpful when trying to determine trends. The chart shows the mon
 ### Analysis of Outcomes Based on Goals
 To continue to help Louise plan her campaign, we need to be more specific with our searches. In this way we'll be able to pinpoint the ones most similar to Louise's vision. Now, we need to collect the outcome and goal data for the “plays” and visualize the percentage of successful, failed, and canceled plays based on the funding goal amount.<br/>
 ![outcomes_vs_goals.png](/resources/outcomes_vs_goals.png)<br/>
-The chart show Failed campaigns have much higher fundraising amounts than successful Kickstarter campaigns.<br/>
+The graph is based on the goals and the percentage(suucess, failed, cancelled). Goals are in the range of 5000.
+Each percentage is coming from the subcategory data filterd by "plays", meaning that only those specific subcategories are considered in this outcome, because it had the most successfull occurances.<br/>
 
 
 ### Challenges and Difficulties Encountered
