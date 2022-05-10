@@ -1,4 +1,5 @@
-# Kickstarter Challenge: Louise’s play fundraising goal
+# Kickstarter Analysis
+showing Loiise trends and insights from various types of Kickstarter in otder to help her kickstart her own crowdfunding campaign.
 ## Overview of Project
 Louise, a playwright, wants to start a crowdfunding campaign fund her play, Fever, with estimating a budget of over $10,000. With using Excel to organize and analyze crowdfunding data, we will determine whether there are specific factors that make a project’s campaign successful. The purpose is to help Louise to gain a greater understanding of campaigns from start to finish, and we'll be able to set her campaign to mirror other successful ones in the same category.<br/>
 - The funding goal is the amount of money that a creator needs to complete their project. <br/>
@@ -11,7 +12,7 @@ Louise, a playwright, wants to start a crowdfunding campaign fund her play, Feve
 Louise wants to know how different campaigns fared in relation to their launch dates and their funding goals.
 
 ## Analysis and Challenges
-After retrieving the data from previous campaigns, and performing it into a readable format in excel, we can help Louise set up her incentives by first determining how much money people have pledged to campaigns historically.<br/>
+After retrieving the data from previous similar campaigns, and performing it into a readable format in excel, we can help Louise set up her incentives by first determining how much money people have pledged to campaigns historically.<br/>
 
 ### Analysis of Outcomes Based on Launch Date
 To help the Louise plan her campaign timeline, we need to take a closer look at how campaign length might be tied to its outcome. We should consider time, or more specifically, whether the length of a campaign makes a difference in determining its success. For example, is a shorter or longer campaign more effective? Is there a certain time of year when campaigns tend to be more successful?<br/>
@@ -22,7 +23,7 @@ Line charts are helpful when trying to determine trends. The chart shows the mon
 To continue to help Louise plan her campaign, we need to be more specific with our searches. In this way we'll be able to pinpoint the ones most similar to Louise's vision. Now, we need to collect the outcome and goal data for the “plays” and visualize the percentage of successful, failed, and canceled plays based on the funding goal amount.<br/>
 ![outcomes_vs_goals.png](/resources/outcomes_vs_goals.png)<br/>
 The graph is based on the goals and the percentage(suucessful, failed, and cancelled campaigns). Goals are in the range of 5000.
-Each percentage is coming from the subcategory data filterd by "plays", meaning that only those specific subcategories are considered in this outcome, because it had the most successfull occurances.<br/>
+Each percentage is coming from the subcategory data filterd by "plays", meaning that only those specific subcategories are considered in this outcome, because it had the most successfull occurances.<br/>There is approximately 50% chance for theatre plays to be successful if the Campaign goal is less than $20,000. However, the success percentage increases as one lowers the Campaign goal. For example, if the Campaign goal is $5000, the percentage increases to about 60%. It can further increase to about 75% if the Campaign goal is in the range of $1000.<br/>
 
 
 ### Challenges and Difficulties Encountered
@@ -37,7 +38,12 @@ Each percentage is coming from the subcategory data filterd by "plays", meaning 
     1. The most successful capaigns are the ones have goal less than 5000 or goal between 35000 and 50000.
     
 - What are some limitations of this dataset?
-    1. There is no current data. The latest one is 2017.
+    1. One limitation could be lack of recent data. There is no current data, the most recent campaign was in 2017. Recent data can help better uncover certain trends in types of successful Kickstarter data currently.
+    2. More data in the parent category theatre and subcategory plays would help a stronger outcome prediction
 
 - What are some other possible tables and/or graphs that we could create?
     1. We might need a graph to show the relation between the sucessfull projects and the number of backers.
+
+
+## Recommendation
+Louise should strongly start her Theatre Play Campaign in the Months of May, June and July, and should seek to lower her campaign goal of $10,000.
