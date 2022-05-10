@@ -2,11 +2,6 @@
 showing Loiise trends and insights from various types of Kickstarter in otder to help her kickstart her own crowdfunding campaign.
 ## Overview of Project
 Louise, a playwright, wants to start a crowdfunding campaign fund her play, Fever, with estimating a budget of over $10,000. With using Excel to organize and analyze crowdfunding data, we will determine whether there are specific factors that make a project’s campaign successful. The purpose is to help Louise to gain a greater understanding of campaigns from start to finish, and we'll be able to set her campaign to mirror other successful ones in the same category.<br/>
-- The funding goal is the amount of money that a creator needs to complete their project. <br/>
-- Funding on Kickstarter is all-or-nothing. No one will be charged for a pledge towards a project unless it reaches its funding goal. This way, creators always have the budget they scoped out before moving forward.<br/>
-- A creator is the person or team behind the project idea, working to bring it to life.<br/>
-- Backers are folks who pledge money to join creators in bringing projects to life. Kickstarter is not a store, backers support a creative process.<br/>
-- 
 
 ### Purpose
 Louise wants to know how different campaigns fared in relation to their launch dates and their funding goals.
