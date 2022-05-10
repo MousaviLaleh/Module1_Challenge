@@ -15,13 +15,14 @@ Louise wants to know how different campaigns fared in relation to their launch d
 After retrieving the data from previous similar campaigns, and performing it into a readable format in excel, we can help Louise set up her incentives by first determining how much money people have pledged to campaigns historically.<br/>
 
 ### Analysis of Outcomes Based on Launch Date
-To help the Louise plan her campaign timeline, we need to take a closer look at how campaign length might be tied to its outcome. We should consider time, or more specifically, whether the length of a campaign makes a difference in determining its success. For example, is a shorter or longer campaign more effective? Is there a certain time of year when campaigns tend to be more successful?<br/>
+### challenge
+To help the Louise plan her campaign timeline, I need to take a closer look at how campaign length might be tied to its outcome. I should consider time, or more specifically, whether the length of a campaign makes a difference in determining its success. For example, is a shorter or longer campaign more effective? Is there a certain time of year when campaigns tend to be more successful?<br/>
 ![outcomes_vs_launch.png](/resources/outcomes_vs_launch.png)<br/>
 Line charts are helpful when trying to determine trends. The chart shows the months that launched the most successful campaigns was May, June and July. Although Feb, Apr, and Aug have the same range of oucomes, but in compare with others, they can provide quiet well outcome. However, May to October, all had roughly the same number of failed campaigns launched. Overal May, Jun and July is the best time to run her campaigns.<br/>
 
 ### Analysis of Outcomes Based on Goals
 ### challenge
-To continue to help Louise plan her campaign, we need to be more specific with our searches. In this way we'll be able to pinpoint the ones most similar to Louise's vision. Now, we need to collect the outcome and goal data for the “plays” and visualize the percentage of successful, failed, and canceled plays based on the funding goal amount.<br/>
+To continue to help Louise plan her campaign, I need to be more specific with our searches. In this way I'll be able to pinpoint the ones most similar to Louise's vision. Now, I need to collect the outcome and goal data for the “plays” and visualize the percentage of successful, failed, and canceled plays based on the funding goal amount.<br/>
 ![outcomes_vs_goals.png](/resources/outcomes_vs_goals.png)<br/>
 The graph is based on the goals and the percentage(suucessful, failed, and cancelled campaigns). Goals are in the range of 5000.
 Each percentage is coming from the subcategory data filterd by "plays", meaning that only those specific subcategories are considered in this outcome, because it had the most successfull occurances.<br/>There is approximately 50% chance for theatre plays to be successful if the Campaign goal is less than $20,000. However, the success percentage increases as one lowers the Campaign goal. For example, if the Campaign goal is $5000, the percentage increases to about 60%. It can further increase to about 75% if the Campaign goal is in the range of $1000.<br/>
