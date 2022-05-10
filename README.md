@@ -1,6 +1,11 @@
 # Kickstarter Challenge: Louise’s play fundraising goal
 ## Overview of Project
-Louise, a playwright, wants to start a crowdfunding campaign fund her play, Fever, with estimating a budget of over $10,000. With using Excel to organize and analyze crowdfunding data, we will determine whether there are specific factors that make a project’s campaign successful. The purpose is to help Louise to gain a greater understanding of campaigns from start to finish, and we'll be able to set her campaign to mirror other successful ones in the same category.
+Louise, a playwright, wants to start a crowdfunding campaign fund her play, Fever, with estimating a budget of over $10,000. With using Excel to organize and analyze crowdfunding data, we will determine whether there are specific factors that make a project’s campaign successful. The purpose is to help Louise to gain a greater understanding of campaigns from start to finish, and we'll be able to set her campaign to mirror other successful ones in the same category.<br/>
+- The funding goal is the amount of money that a creator needs to complete their project. <br/>
+- Funding on Kickstarter is all-or-nothing. No one will be charged for a pledge towards a project unless it reaches its funding goal. This way, creators always have the budget they scoped out before moving forward.<br/>
+- A creator is the person or team behind the project idea, working to bring it to life.<br/>
+- Backers are folks who pledge money to join creators in bringing projects to life. Kickstarter is not a store, backers support a creative process.<br/>
+- 
 
 ### Purpose
 Now her play Fever came close to its fundraising goal in a short amount of time. Now she wants to know how different campaigns fared in relation to their launch dates and their funding goals.
@@ -21,4 +26,17 @@ The chart show Failed campaigns have much higher fundraising amounts than succes
 
 ### Challenges and Difficulties Encountered
 
+
 ## Results
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+    1. Between May and June are the best time to run a campaign.
+    2. July has the least canceled theater project, and so is the best time to run the campaign.
+
+- What can you conclude about the Outcomes based on Goals?
+    1. The most successful capaigns are the ones have goal less than 5000 or goal between 35000 and 50000.
+    
+- What are some limitations of this dataset?
+    1. There is no current data. The latest one is 2017.
+
+- What are some other possible tables and/or graphs that we could create?
+    1. We might need a graph to show the relation between the sucessfull projects and the number of backers.
