@@ -31,7 +31,7 @@ Each percentage is coming from the subcategory data filterd by "plays", meaning 
     2. July has the least canceled theater project, and so is the best time to run the campaign.
 
 - Conclusion about the Outcomes based on Goals:
-    1. The most successful capaigns are the ones have goal less than 5000 or goal between 35000 and 50000.
+    1. The most successful capaigns are the ones that have goal less than 5000 or goal between 35000 and 50000.
     
 - Limitations of this dataset:
     1. One limitation could be lack of recent data. There is no current data, the most recent campaign was in 2017. Recent data can help better uncover certain trends in types of successful Kickstarter data currently.
