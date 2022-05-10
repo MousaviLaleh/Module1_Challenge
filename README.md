@@ -39,7 +39,7 @@ Each percentage is coming from the subcategory data filterd by "plays", meaning 
     
 - What are some limitations of this dataset?
     1. One limitation could be lack of recent data. There is no current data, the most recent campaign was in 2017. Recent data can help better uncover certain trends in types of successful Kickstarter data currently.
-    2. More data in the parent category theatre and subcategory plays would help a stronger outcome prediction
+    2. More data in the parent category theatre and subcategory plays would help a stronger outcome prediction.
 
 - What are some other possible tables and/or graphs that we could create?
     1. We might need a graph to show the relation between the sucessfull projects and the number of backers.
