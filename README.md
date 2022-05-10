@@ -26,18 +26,18 @@ Each percentage is coming from the subcategory data filterd by "plays", meaning 
 
 
 ## Results
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- Conclusions about the Outcomes based on Launch Date:
     1. Between May and June are the best time to run a campaign.
     2. July has the least canceled theater project, and so is the best time to run the campaign.
 
-- What can you conclude about the Outcomes based on Goals?
+- Conclusion about the Outcomes based on Goals:
     1. The most successful capaigns are the ones have goal less than 5000 or goal between 35000 and 50000.
     
-- What are some limitations of this dataset?
+- Limitations of this dataset:
     1. One limitation could be lack of recent data. There is no current data, the most recent campaign was in 2017. Recent data can help better uncover certain trends in types of successful Kickstarter data currently.
     2. More data in the parent category theatre and subcategory plays would help a stronger outcome prediction.
 
-- What are some other possible tables and/or graphs that we could create?
+- Some other possible tables and/or graphs that we could create:
     1. We might need a graph to show the relation between the sucessfull projects and the number of backers.
 
 
