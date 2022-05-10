@@ -38,8 +38,8 @@ Each percentage is coming from the subcategory data filterd by "plays", meaning 
     2. More data in the parent category theatre and subcategory plays would help a stronger outcome prediction.
 
 - Some other possible tables and/or graphs that we could create:
-    1. We might need a graph to show the relation between the sucessfull projects and the number of backers.
+    1. We might need a graph to show the relation between the sucessfull projects and the number of backers.<br/>
 
-<br/>
+
 ## Recommendation
 Louise should strongly start her Theatre Play Campaign in the Months of May, June and July, and should seek to lower her campaign goal of $10,000.
