@@ -42,4 +42,4 @@ Each percentage is coming from the subcategory data filterd by "plays", meaning 
 
 
 ## Recommendation
-Louise should strongly start her Theatre Play Campaign in the Months of May, June and July, and should seek to lower her campaign goal of $10,000.
+Louise should strongly start her Theatre Play Campaign in the Months of May, June and July, and she should seek to lower her campaign goal of $10,000.
