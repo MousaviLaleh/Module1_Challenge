@@ -1,5 +1,5 @@
 # Kickstarter Analysis
-showing Loiise trends and insights from various types of Kickstarter in otder to help her kickstart her own crowdfunding campaign.
+Showing Louise trends and insights from various types of Kickstarter in otder to help her kickstart her own crowdfunding campaign.
 ## Overview of Project
 Louise, a playwright, wants to start a crowdfunding campaign fund her play, Fever, with estimating a budget of over $10,000. With using Excel to organize and analyze crowdfunding data, we will determine whether there are specific factors that make a project’s campaign successful. The purpose is to help Louise to gain a greater understanding of campaigns from start to finish, and we'll be able to set her campaign to mirror other successful ones in the same category.<br/>
 
