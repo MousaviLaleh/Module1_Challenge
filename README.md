@@ -1,7 +1,7 @@
 # Kickstarter Analysis
 Showing Louise trends and insights from various types of Kickstarter in otder to help her kickstart her own crowdfunding campaign.
 ## Overview of Project
-Louise, a playwright, wants to start a crowdfunding campaign fund her play, Fever, with estimating a budget of over $10,000. With using Excel to organize and analyze crowdfunding data, we will determine whether there are specific factors that make a project’s campaign successful. The purpose is to help Louise to gain a greater understanding of campaigns from start to finish, and we'll be able to set her campaign to mirror other successful ones in the same category.<br/>
+Louise, a playwright, wants to start a crowdfunding campaign fund her play, Fever, with estimating a budget of over $10,000. With using Excel to organize and analyze crowdfunding data, we will determine whether there are specific factors that make a project’s campaign successful. The purpose is to help Louise to gain a greater understanding of campaigns from start to finish, and we will be able to set her campaign to mirror other successful ones in the same category.<br/>
 
 ### Purpose
 Louise wants to know how different campaigns fared in relation to their launch dates and their funding goals.
@@ -17,7 +17,7 @@ Line charts are helpful when trying to determine trends. The chart shows the mon
 
 ### Analysis of Outcomes Based on Goals
 ### challenge
-To continue to help Louise plan her campaign, we need to be more specific with our searches. In this way we'll be able to pinpoint the ones most similar to Louise's vision. Now, we need to collect the outcome and goal data for the “plays” and visualize the percentage of successful, failed, and canceled plays based on the funding goal amount.<br/>
+To continue to help Louise plan her campaign, we need to be more specific with our searches. In this way we will be able to pinpoint the ones most similar to Louise's vision. Now, we need to collect the outcome and goal data for the “plays” and visualize the percentage of successful, failed, and canceled plays based on the funding goal amount.<br/>
 ![outcomes_vs_goals.png](/resources/outcomes_vs_goals.png)<br/>
 The graph is based on the goals and the percentage(suucessful, failed, and cancelled campaigns). Goals are in the range of 5000.
 Each percentage is coming from the subcategory data filterd by "plays", meaning that only those specific subcategories are considered in this outcome, because it had the most successfull occurances.<br/>There is approximately 50% chance for theatre plays to be successful if the Campaign goal is less than $20,000. However, the success percentage increases as one lowers the Campaign goal. For example, if the Campaign goal is $5000, the percentage increases to about 60%. It can further increase to about 75% if the Campaign goal is in the range of $1000.<br/><br/>
