@@ -11,7 +11,7 @@ Since the client is planning a campaign for a "play" in the U.S. we have taken a
 ![category_outcome.png](/resources/category_outcome.png)
 <br/>
 
-Out of all the Kickstarter campaigns in the U.S., 1066 were for plays and over 76% of those campaigns were successful. This makes the plays as the most successful category for Kickstarter campaigns in the U.S. 
+Out of all the Kickstarter campaigns in the U.S., 1066 were for plays and over 65% of those campaigns were successful. This makes the plays as the most successful category for Kickstarter campaigns in the U.S. 
 <br/>
 
 ![subcategory_outcome.png](resources/subcategory_outcome.png)
