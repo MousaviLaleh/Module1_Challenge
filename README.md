@@ -5,7 +5,11 @@
 Perform analysis with <b>Excel</b> on Kickstarter fundraising campaigns data to uncover trends and help our client to adjust its future campaign projects in the U.S. and Great Britain for the best results.
 
 ## Analysis and Challenges
-Since the client is planning a campaign for a play in the U.S. we have taken a look at the Kikckstarter campaigns done in the U.S. Out of the 3038 campaigns done 912 were for the category "theater" which make it the highest in therm of campaign numbers.<br/><br/>
+Since the client is planning a campaign for a play in the U.S. we have taken a look at the Kikckstarter campaigns done in the U.S. Out of the 4114 campaigns done 1393 were for the category "theater" which make it the highest in therm of campaign numbers.<br/>
+![category_outcome.png](/resources/category_outcome.png)
+<br/>
+Out of all the Kickstarter campaigns in the U.S., 1066 were for plays and over 76% of those campaigns were successful. This makes the plays as the most successful category for Kickstarter campaigns in the U.S.
+![subcategory_outcome.png](resources/subcategory_outcome.png)
 
 
 ### Analysis of Outcomes Based on Launch Date
