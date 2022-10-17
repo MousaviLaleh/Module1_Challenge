@@ -24,8 +24,8 @@ To help the Louise plan her campaign timeline, we need to take a closer look at 
 ![outcomes_vs_launch.png](/resources/outcomes_vs_launch.png)
 <br/>
 
-Line charts are helpful when trying to determine trends. The chart shows the months that launched the most successful campaigns was May, June and July. However, May to October, all had roughly the same number of failed campaigns launched. Overal May, June and July is the best time to run her campaigns.<br/><br/>
-
+Line charts are helpful when trying to determine trends. The chart shows the months that launched the most successful campaigns was May, June and July. However, May to October, all had roughly the same number of failed campaigns launched. Overal May, June and July is the best time to run her campaigns.
+<br/>
 
 ### Analysis of Outcomes Based on Goals
 To continue to help Louise plan her campaign, we need to be more specific with our searches. In this way we will be able to pinpoint the ones most similar to Louise's vision. Now, we need to collect the outcome and goal data for the “plays” and visualize the percentage of successful, failed, and canceled plays based on the funding goal amount.
