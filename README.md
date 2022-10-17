@@ -5,7 +5,7 @@
 Perform analysis with <b>Excel</b> on Kickstarter fundraising campaigns data to uncover trends and help our client to adjust its future campaign projects in the U.S. and Great Britain for the best results.
 
 ## Analysis and Challenges
-Since the client is planning a campaign for a "play" in the U.S. we have taken a look at the Kikckstarter campaigns done in the U.S. Out of the 4114 campaigns done, 1393 were for the category "theater" which make it the highest in therm of campaign numbers.
+Since the client is planning a campaign for a "play" in the U.S. we have taken a look at the Kikckstarter campaigns done in the U.S. Out of the 4114 campaigns done, 1393 were for the category "theater" which make it the highest in term of campaign numbers.
 <br/>
 
 ![category_outcome.png](/resources/category_outcome.png)
@@ -24,7 +24,7 @@ To help the campaign timeline, we need to take a closer look at how campaign len
 ![outcomes_vs_launch.png](/resources/outcomes_vs_launch.png)
 <br/>
 
-Line charts are helpful when trying to determine trends. The chart shows the months that launched the most successful campaigns was May, June and July. However, May to October, all had roughly the same number of failed campaigns launched. Overal May, June and July is the best time to run her campaigns.
+Line charts are helpful when trying to determine trends. The chart shows the months that launched the most successful campaigns was May, June and July. However, May to October, all had roughly the same number of failed campaigns launched. Overal May, June and July is the best time to run the campaigns.
 <br/>
 
 ### Analysis of Outcomes Based on Goals
@@ -54,7 +54,7 @@ Each percentage is coming from the subcategory data filterd by "plays", meaning 
 
 
 ## Recommendation
-The client should strongly start her Theatre Play Campaign in the months of May, June and July, and seek to lower the campaign goal of $10,000.<br/><br/>
+The client should strongly start its Theatre Play Campaign in the months of May, June and July, and seek to lower the campaign goal of $10,000.<br/><br/>
 
 
 
