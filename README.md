@@ -18,7 +18,7 @@ Out of all the Kickstarter campaigns in the U.S., 1066 were for plays and over 7
 
 
 ### Analysis of Outcomes Based on Launch Date
-To help the Louise plan her campaign timeline, we need to take a closer look at how campaign length might be tied to its outcome. We should consider time, or more specifically, whether the length of a campaign makes a difference in determining its success. For example, is a shorter or longer campaign more effective? Is there a certain time of year when campaigns tend to be more successful?
+To help the campaign timeline, we need to take a closer look at how campaign length might be tied to its outcome. We should consider time, or more specifically, whether the length of a campaign makes a difference in determining its success. For example, is a shorter or longer campaign more effective? Is there a certain time of year when campaigns tend to be more successful?
 <br/>
 
 ![outcomes_vs_launch.png](/resources/outcomes_vs_launch.png)
@@ -28,7 +28,7 @@ Line charts are helpful when trying to determine trends. The chart shows the mon
 <br/>
 
 ### Analysis of Outcomes Based on Goals
-To continue to help Louise plan her campaign, we need to be more specific with our searches. In this way we will be able to pinpoint the ones most similar to Louise's vision. Now, we need to collect the outcome and goal data for the “plays” and visualize the percentage of successful, failed, and canceled plays based on the funding goal amount.
+To continue to help the campaign, we need to be more specific with our searches. In this way we will be able to pinpoint the ones most similar client's vision. Now, we need to collect the outcome and goal data for the “plays” and visualize the percentage of successful, failed, and canceled plays based on the funding goal amount.
 <br/>
 ![outcomes_vs_goals.png](/resources/outcomes_vs_goals.png)
 <br/>
@@ -54,7 +54,7 @@ Each percentage is coming from the subcategory data filterd by "plays", meaning 
 
 
 ## Recommendation
-Louise should strongly start her Theatre Play Campaign in the months of May, June and July, and she should seek to lower her campaign goal of $10,000.<br/><br/>
+The client should strongly start her Theatre Play Campaign in the months of May, June and July, and seek to lower the campaign goal of $10,000.<br/><br/>
 
 
 
