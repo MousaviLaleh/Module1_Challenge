@@ -5,13 +5,14 @@
 Perform analysis with <b>Excel</b> on Kickstarter fundraising campaigns data to uncover trends and help our client to adjust its future campaign projects in the U.S. and Great Britain for the best results.
 
 ## Analysis and Challenges
-We start the job by collecting the data from past similar campaigns. With this data, we can help Louise set up her incentives by first determining how much money people have pledged to campaigns historically.<br/><br/>
+Since the client is planning a campaign for a play in the U.S. we have taken a look at the Kikckstarter campaigns done in the U.S. Out of the 3038 campaigns done 912 were for the category "theater" which make it the highest in therm of campaign numbers.<br/><br/>
+
 
 ### Analysis of Outcomes Based on Launch Date
-
 To help the Louise plan her campaign timeline, we need to take a closer look at how campaign length might be tied to its outcome. We should consider time, or more specifically, whether the length of a campaign makes a difference in determining its success. For example, is a shorter or longer campaign more effective? Is there a certain time of year when campaigns tend to be more successful?<br/>
 ![outcomes_vs_launch.png](/resources/outcomes_vs_launch.png)<br/><br/>
 Line charts are helpful when trying to determine trends. The chart shows the months that launched the most successful campaigns was May, June and July. However, May to October, all had roughly the same number of failed campaigns launched. Overal May, June and July is the best time to run her campaigns.<br/><br/>
+
 
 ### Analysis of Outcomes Based on Goals
 To continue to help Louise plan her campaign, we need to be more specific with our searches. In this way we will be able to pinpoint the ones most similar to Louise's vision. Now, we need to collect the outcome and goal data for the “plays” and visualize the percentage of successful, failed, and canceled plays based on the funding goal amount.<br/>
